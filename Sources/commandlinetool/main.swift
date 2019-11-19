@@ -84,6 +84,9 @@ while option != 0 {
             print(s)
         }
         
+    case 15:
+        print("Вы неверно ввели число. Попробуйте еще раз")
+        
     default:
         break
     }
